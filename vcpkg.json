@@ -1,0 +1,8 @@
+{
+    "name": "ai-textvision",
+    "version-string": "1.0.0",
+    "dependencies": [
+        "opencv4",
+        "tesseract"
+    ]
+}
